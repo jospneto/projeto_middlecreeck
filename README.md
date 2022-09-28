@@ -3,4 +3,4 @@ Criação de um aplicativo mobile que atenda agricultores da região de Cajazeir
 
 ## Linguagens e tecnologias utilizadas 💠
   * React Native <img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  * Fire Base <img align="center" alt="JoseNeto-HTML" height="80" width="40" src="https://www.gstatic.com/devrel-devsite/prod/vab219352c525c8fb05bd0fd3ca06d9eb1d0a150a1bba4081d8880459dfe83504/firebase/images/lockup.svg">
+  * Fire Base <img align="center" alt="JoseNeto-HTML" height="80" width="80" src="https://www.gstatic.com/devrel-devsite/prod/vab219352c525c8fb05bd0fd3ca06d9eb1d0a150a1bba4081d8880459dfe83504/firebase/images/lockup.svg">
