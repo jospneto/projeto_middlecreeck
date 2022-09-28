@@ -1,0 +1,2 @@
+# projeto_middlecreeck
+Criação de um aplicativo mobile que atenda agricultores da região de Cajazeiras, Paraíba. O intuito do aplicativo é servir como sistema gerenciador além de adicionar itens derivados da cana-de-açúcar o usuário pode deletar, excluir, pesquisar e editar seu item. Após isso é gerado um QRCode( Ainda em fase de implementação) para que os clientes do engenho possam escanear e abrir um cardápio digital com todos os itens do usuário
